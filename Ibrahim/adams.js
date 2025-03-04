@@ -13,4 +13,4 @@ function adams(obj, fonctions) {
     // console.log('chargement...')
     return infoComs;
 }
-module.exports = {  naliklyn, Module: adams, cm };
+module.exports = {  naliklyn, Module: naliklyn, cm };
